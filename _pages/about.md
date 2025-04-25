@@ -48,15 +48,15 @@ IEEE Transactions on Visualization and Computer Graphics (VIS’24)
 
 # 📖 Educations
 - *2023.09 - now*, PhD, College of Computer Science and Technology, Zhejiang University, Hangzhou, China. 
-- *2019.09 - 2023.06*, Chu Kochen Honors College, Zhejiang University, Hangzhou, China. 
+- *2019.09 - 2023.06*, Undergraduate, [Turing Class](http://www.cs.zju.edu.cn/turingclass_en/), College of Computer Science and Technology, Zhejiang University, Hangzhou, China. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Experience
+# 🧑‍🏫 Experience
 - *2025.04 - now*, Teaching Assistant, Undergraduate Course at Zhejiang University: Introduction to Data Visualization.
 - *2024.11 - 2025.01*, Teaching Assistant, Undergraduate Course at Zhejiang University: Introduction to Data Visualization.
 - *2024.07 - 2024.07*, Teaching Assistant, Undergraduate Course at Zhejiang University: International Summer School on Visual Analytics.
 - *2024.02 - 2024.06*, Teaching Assistant, Undergraduate Course at Zhejiang University: The Intellectual History of Computer Science.
-- *2022.07 - 2022.09*, Summer Intern, Morgan Stanley.
+- *2022.07 - 2022.09*, Summer Intern, Technology Department of Morgan Stanley.
