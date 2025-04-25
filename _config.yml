@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianing Yin (殷佳宁) - Homepage"
-description              :
+description              : # "Hello! I'm Jianing Yin. Welcome to my homepage!"
 repository               : # "Alice-yz/jianing-yin.github.io"
 google_scholar_stats_use_cdn : true
 
