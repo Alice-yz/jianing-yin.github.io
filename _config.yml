@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jianing Yin (殷佳宁) - Homepage"
 description              :
-repository               : "Alice-yz/jianing-yin.github.io"
+repository               : # "Alice-yz/jianing-yin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
