@@ -23,7 +23,7 @@ My research focuses on data visualization and human-computer interaction within 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉  Our paper *"Blowing Seeds Across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts"* is accepted to IEEE VIS 2024. 
+- *2024.07*: &nbsp;🎉🎉  Our paper *"Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts"* is accepted to IEEE VIS 2024. 
 
 
 # 📝 Publications 
@@ -31,7 +31,7 @@ My research focuses on data visualization and human-computer interaction within 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2024</div><img src='images/bloomwind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Blowing Seeds Across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts](https://zjuidg.org/source/projects/BloomWind/BloomWind.pdf)
+[Blowing Seeds across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts](https://zjuidg.org/source/projects/BloomWind/BloomWind.pdf)
 
 **Jianing Yin**, Hanze Jia, Buwei Zhou, Tan Tang, Lu Ying, Shuainan Ye, Tai-Quan  Peng, and Yingcai Wu
 
