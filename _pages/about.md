@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Jianing Yin (殷佳宁 in Chinese), a Ph.D. candidate of computer science at the <a href="http://www.cad.zju.edu.cn/">State Key Lab of CAD&CG, Zhejiang University</a>. As a member of <a href="https://zjuidg.org/">ZJUIDG</a>, I am fortunate to be supervised by Prof. <a href="http://www.ycwu.org/">Yingcai Wu</a> and Dr. <a href="https://tantang.org/">Tan Tang</a>.
 
-My research focuses on data visualization and human-computer interaction within the domain of social media. I am interested in utilizing visual metaphors to represent diverse phenomena and patterns in social media. I am also interested in conducting HCI research to explore the relationships between humans and social media.
+My research focuses on data visualization and human-computer interaction within the domain of social media. I am interested in utilizing visual metaphors to represent diverse phenomena and patterns in social media. I am also interested in conducting HCI research to explore the relationships between humans and social media platforms.
 
 
 # 🔥 News
