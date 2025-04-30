@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianing Yin (殷佳宁) - Homepage"
+title                    : "Jianing Yin (殷佳宁)"
 description              : "Ph.D. candidate, focusing on social media analysis."
 repository               : # "Alice-yz/jianing-yin.github.io"
 google_scholar_stats_use_cdn : true
